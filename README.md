@@ -1,2 +1,2 @@
 # ImageSearchApp
-This app will help you to check if someone photos are real or just a copy-paste from the web.
+The Simple Image Search App is a valuable tool for artists, designers, bloggers, students, and anyone in need of images for presentations, projects, or social media posts.
